@@ -38,7 +38,7 @@ async def _human_time_duration(seconds):
 
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from RaiChu.config import (
+from Romeo.config import (
     ASSISTANT_NAME,
     BOT_NAME,
     BOT_USERNAME,
