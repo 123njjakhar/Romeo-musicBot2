@@ -51,12 +51,7 @@ async def start(_, message: Message):
                     InlineKeyboardButton(
                         "Commands & Help ❔", callback_data="cbbasic"
                     ),
-                ],
-                [
-                    InlineKeyboardButton(
-                        "How to Use Me ❓", callback_data="cbhowtouse"
-                    ),
-                  ],[
+                ],[
                     InlineKeyboardButton(
                        "Updates", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
