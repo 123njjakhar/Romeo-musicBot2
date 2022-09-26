@@ -40,7 +40,7 @@ async def _human_time_duration(seconds):
 async def start(_, message: Message):
         await message.reply_text(
         f"""𝐇𝐞𝐥𝐥𝐨 ❥︎ {message.from_user.mention()}, 
-𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 {BOT_NAME}.
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 @{BOT_NAME}.
 𝐈'𝐦 𝐀 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭.
 𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐋𝐚𝐠𝐬.
 𝐄𝐧𝐣𝐨𝐲 𝐘𝐨𝐮𝐫 𝐦𝐮𝐬𝐢𝐜 24*7.
