@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 from Romeo.config import ASSISTANT_NAME, BOT_USERNAME, IMG_1, IMG_2, IMG_5
 from Process.filters import command, other_filters
 from Process.queues import QUEUE, add_to_queue
-from Process.main import call_py, aman as user
+from Process.main import call_py, rj as user
 from Process.utils import bash
 from Process.main import bot as Client
 from pyrogram.errors import UserAlreadyParticipant, UserNotParticipant
