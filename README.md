@@ -19,7 +19,7 @@
    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=green" /></a>
     <a href="https://github.com/Romeo-RJ/Romeo-musicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/Romeo-RJ/Romeo-musicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=green&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-     <a href="https://github.com/Romeo-RJ/Romeo-musicBot"> <img src="https://img.shields.io/github/repo-size/Romeo-RJ/Video-call-bot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
+    ![Repo Size](https://img.shields.io/github/repo-size/Romeo-RJ/Romeo-musicBot?&style=flat-square&logo=github)
     <a href="https://github.com/Romeo-RJ/Romeo-musicBot/commits/main"> <img src="https://img.shields.io/github/last-commit/Romeo-RJ/Romeo-musicBot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/Romeo-RJ/Romeo-musicBot/issues"> <img src="https://img.shields.io/github/issues/Romeo-RJ/Romeo-musicBot?color=green&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
