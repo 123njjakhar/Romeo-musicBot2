@@ -3,8 +3,11 @@
 ### ʀᴏᴍᴇᴏ ᴍᴜsɪᴄ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/Romeobot_op"><img src="https://telegra.ph/file/046a3e53fc04fa3de84e0.jpg" width="300"></a></p>
-<p align="center">
-    🔷 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ 🔷
+<p align="center"> 
+
+---------------------
+
+🔷 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ 🔷
 
 [𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/Rjssgbot)
 
